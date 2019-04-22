@@ -7,6 +7,9 @@
   <groupId>whq-frame</groupId>
   <artifactId>whq-frame</artifactId>
   <version>1.0</version>
+  <modules>
+    <module>springMVC</module>
+  </modules>
   <packaging>pom</packaging>
 
   <name>whq-frame Maven Webapp</name>
@@ -14,6 +17,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.version>4.3.18.RELEASE</spring.version>
+    <commons-logging>1.2</commons-logging>
     <javax.resource.version>1.5</javax.resource.version>
   </properties>
 

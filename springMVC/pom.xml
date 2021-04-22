@@ -16,7 +16,7 @@
     <properties>
         <ojdbc14.version>10.2.0.2.0</ojdbc14.version>
         <druid.version>1.0.24</druid.version>
-        <mybatis.version>3.2.0</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
     </properties>
 
